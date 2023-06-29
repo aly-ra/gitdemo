@@ -1,1 +1,2 @@
 We are here in Radebeul and connecting
+and now at commit step with Git 101
